@@ -1,0 +1,26 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fridolinho/pdf-generator.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "pdf"
+  ],
+  "author": "Niyonsaba Fridolin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fridolinho/pdf-generator/issues"
+  },
+  "homepage": "https://github.com/fridolinho/pdf-generator#readme",
+  "dependencies": {
+    "puppeteer": "^23.3.0"
+  }
+}
